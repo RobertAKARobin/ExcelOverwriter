@@ -1,6 +1,6 @@
 # ExcelOverwriter
 
-Overwrite the data in one XLSX using data from another XLSX, using column headers that you specify.
+Overwrite the data in one XLSX with data from another XLSX, using column headers that you specify.
 
 Initialize it like this:
 
